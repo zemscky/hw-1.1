@@ -7,5 +7,20 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             System.out.println(i);
         }
+        // Задание 2.1
+        System.out.println("Задание 2.1");
+        for (int j = 10; j >= 1; j--) {
+            System.out.println(j);
+        }
+        // Задание 3.1
+        System.out.println("Задание 3.1");
+        for (int f = 0; f <= 17; f += 2) {
+            System.out.println(f);
+        }
+        // Задание 4.1
+        System.out.println("Задание 4.1");
+        for (int x = 10; x >= -10; x -= 1) {
+            System.out.println(x);
+        }
     }
 }
